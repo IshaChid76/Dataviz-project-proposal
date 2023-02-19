@@ -33,7 +33,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.21%20PM.png)
 
-![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.48%20PM.png)
+![image](https://github.com/IshaChid76/Dataviz-project-proposal/blob/main/WhatsApp%20Image%202023-02-19%20at%206.20.40%20PM.jpeg)
 
 ## Open Questions
 
