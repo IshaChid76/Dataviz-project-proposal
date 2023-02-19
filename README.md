@@ -10,34 +10,30 @@ The data I propose to visualize for my project is the Top Streamers Data on Twic
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It shows a scatter plot of [the Twitch Dataset](https://gist.github.com/IshaChid76/8e2a2a29d869d47ddf17b6dd10acac3c). It shows the total followers with respect to the total stream time for English, Portuguese, Spanish and Korean streamers. 
+- Red is English streamers
+- Blue is Portuguese streamers
+- Green is Korean streamers
+- Yellow is Spanish streamers
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)]([https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4](https://vizhub.com/IshaChid76/f7fe51e418a0492bbf4d4390540b4c47))
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+[![image](https://github.com/IshaChid76/Dataviz-project-proposal/blob/main/Screen%20Shot%202023-02-19%20at%205.44.44%20PM.png)](https://vizhub.com/IshaChid76/f7fe51e418a0492bbf4d4390540b4c47)
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Finding out the number of streamers with respect to language spoken.
+ * Who is the top most streamer?
+ * Which streamer gained more percentage of followers?
+ * Comparison between total streaming time and total followers for each streamer.
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
+
+![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.21%20PM.png)
+
+![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.48%20PM.png)
 
 ## Open Questions
 
