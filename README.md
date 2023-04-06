@@ -31,9 +31,9 @@ The following tasks and questions will drive the visualization and interaction d
 
 The Sketches below show the two interactions that I mainly want to add to the visualization.
 
-First is the feature of zooming in and out. I have scaled the data points that are shown in the prototype image because of overlapping of data but that leads to the exclusions of other outling data points. To stop that from happening, I think zoom interaction would me a very good option. No data points will be missing and data points can be more distinct on zooming in.
+First is the feature of Interactive Color Legend. I have scaled the data points that are shown in the prototype image because of overlapping of data but that leads to the exclusions of other outling data points. To stop that from happening, I think color legend interaction would me a very good option. No data points will be missing and data points can be seen more clearly for each language as well.
 
-![image](https://github.com/IshaChid76/Dataviz-project-proposal/blob/main/WhatsApp%20Image%202023-02-19%20at%206.20.41%20PM.jpeg)
+![image](https://github.com/IshaChid76/Dataviz-project-proposal/blob/main/Screen%20Shot%202023-04-06%20at%207.33.29%20PM.png)
 
 Second feature is getting more information with mouse-hover on a data point. I can add useful information like channel name so that the visualization gives more meaning to the user.
 
@@ -47,9 +47,8 @@ Currently for adding the interactions I am not sure how to add it to the SVG var
 
 1. Add Two more languages to the graph. So basically top five most spoken languages by streamers.
 2. Add a table on the right side of the graph that gives meaning to the colors.
-3. Implement zoom interaction for the actual dataset.
-4. Impement mouse-hover for the actual dataset.
-5. Go over feedbacks from students and professor and analyse what else can be added.
-6. Improve the overall visual appearance of the dataviz.
-7. Iterate for the final time over the visualization.
-8. Adding the last touches to the visualization and creating the final documentation.
+3. Impement mouse-hover for the actual dataset.
+4. Go over feedbacks from students and professor and analyse what else can be added.
+5. Improve the overall visual appearance of the dataviz.
+6. Iterate for the final time over the visualization.
+7. Adding the last touches to the visualization and creating the final documentation.
