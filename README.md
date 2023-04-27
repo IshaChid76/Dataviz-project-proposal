@@ -33,11 +33,13 @@ The Sketches below show the two interactions that I have added to the visualizat
 
 First is the feature of Interactive Color Legend. I have scaled the data points that are shown in the prototype image because of overlapping of data but that leads to the exclusions of other outling data points. To stop that from happening, I think color legend interaction would me a very good option. No data points will be missing and data points can be seen more clearly for each language as well.
 
-![image](https://github.com/IshaChid76/Dataviz-project-proposal/blob/main/Screen%20Shot%202023-04-06%20at%207.33.29%20PM.png)
+[![image](https://github.com/IshaChid76/Dataviz-project-proposal/blob/main/Screen%20Shot%202023-04-06%20at%207.33.29%20PM.png)](https://vizhub.com/IshaChid76/35ec48f8de934797b213739fad8e3d52?edit=files)
 
 Second feature is getting more information with mouse-hover on a data point. I can add useful information like channel name so that the visualization gives more meaning to the user.
 
 ![image](https://github.com/IshaChid76/Dataviz-project-proposal/blob/main/WhatsApp%20Image%202023-02-19%20at%206.20.40%20PM.jpeg)
+
+You can view the final viz that combines both the interactions mentioned above. [Final DataViz](https://vizhub.com/IshaChid76/08125ce095754b51a32de17c0be0c97a)
 
 ## Open Questions
 
