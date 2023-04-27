@@ -29,7 +29,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-The Sketches below show the two interactions that I mainly want to add to the visualization.
+The Sketches below show the two interactions that I have added to the visualization.
 
 First is the feature of Interactive Color Legend. I have scaled the data points that are shown in the prototype image because of overlapping of data but that leads to the exclusions of other outling data points. To stop that from happening, I think color legend interaction would me a very good option. No data points will be missing and data points can be seen more clearly for each language as well.
 
@@ -52,3 +52,8 @@ Currently for adding the interactions I am not sure how to add it to the SVG var
 5. Improve the overall visual appearance of the dataviz.
 6. Iterate for the final time over the visualization.
 7. Adding the last touches to the visualization and creating the final documentation.
+
+## Future Scope
+
+1. Add zoom in and zoom out interaction.
+2. Add a dropdown list.
