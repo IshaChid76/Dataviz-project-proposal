@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is the Top Streamers Data on Twicth which consists of different attributes like number of viewers, number of active viewers, followers gained and many other relevant columns regarding a particular streamer. It has 11 different columns with all the necessary information that is needed.
+The data I propose to visualize for my project is the Top Streamers Data on Twitch which consists of different attributes like number of viewers, number of active viewers, followers gained and many other relevant columns regarding a particular streamer. It has 11 different columns with all the necessary information that is needed.
 
 - Finding out the number of streamers with respect to language spoken.
 - Who is the top most streamer?
